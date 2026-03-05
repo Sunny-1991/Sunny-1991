@@ -33,3 +33,4 @@ Data dashboards · Macro research · Multi-asset tools
 - [us-valuation-monitor](https://github.com/Sunny-1991/us-valuation-monitor)
 
 <!-- profile-api-refresh: 2026-03-04T17:41:30Z -->
+<!-- pr-test-marker: 2026-03-05 -->
